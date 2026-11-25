@@ -1,0 +1,9 @@
+{
+  "name": "Boardscape Field Survey",
+  "short_name": "Boardscape Field",
+  "start_url": "/field/surveys",
+  "display": "standalone",
+  "background_color": "#FAF9F6",
+  "theme_color": "#141413",
+  "description": "Mobile-first offline-capable billboard field survey PWA for Abuja."
+}
